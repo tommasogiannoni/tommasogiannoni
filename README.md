@@ -5,9 +5,9 @@
 - 📫 How to reach me tommaso.giannoni@yahoo.it or LinkedIn.
 
 ## Dashboard
-![Tommaso Giannoni's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tommasogiannoni) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tommasogiannoni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://leetcode-stats-six.vercel.app/api?username=tommasogiannoni" alt="Tommaso Giannoni's LeetCode stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tommasogiannoni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400" />
 
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tommaso.giannoni) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommasogiannoni)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommasogiannoni) [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tommaso.giannoni)
 
 <!---
 tommasogiannoni/tommasogiannoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
