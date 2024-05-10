@@ -6,6 +6,7 @@
 - 📫 How to reach me tommaso.giannoni@yahoo.it or LinkedIn.
 
 ### Dashboard
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommasogiannoni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400" />
 <img src="https://leetcode.card.workers.dev/tommasogiannoni?theme=dark&font=baloo&extension=null" alt="Tommaso Giannoni's LeetCode stats" width="400" /> 
 
