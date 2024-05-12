@@ -1,6 +1,6 @@
 ### About me
 - 👋 Hi, I’m @tommasogiannoni
-- 👀 I’m interested in Front-End Engineering, and Solution Architect scope for Web development.
+- 👀 I’m interested in Front-End Engineering, and system design scope for Web development.
 - 🌱 I’m currently learning Cloud Computing and Front-End innovative frameworks.
 - 💞️ I’m looking to collaborate on interesting and innovative web application.
 - 📫 How to reach me tommaso.giannoni@yahoo.it or LinkedIn.
